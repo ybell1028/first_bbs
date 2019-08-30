@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\Admin\Desktop\BBS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1436756888.index
+\k_board\src\main\java
+C:\Users\Admin\Desktop\BBS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\645359102.index
+\k_board\src\main\java
